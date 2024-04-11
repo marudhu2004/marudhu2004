@@ -20,5 +20,7 @@
  <a href="https://www.raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="rpi" width="40" height="40"/>
   </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marudhu2004&show_icons=true&locale=en&layout=compact" alt="marudhu2004" /></p>
-
+<div style="display:flex; fiex-direction: row">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marudhu2004&show_icons=true&locale=en&layout=compact" alt="marudhu2004" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/marudhu2004.png" alt="TryHackMe">
+</div>
