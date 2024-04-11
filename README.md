@@ -22,5 +22,5 @@
 
 <div style="display:flex; fiex-direction: row">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marudhu2004&show_icons=true&locale=en&layout=compact" alt="marudhu2004" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/marudhu2004.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/marudhu2004"><img src="https://tryhackme-badges.s3.amazonaws.com/marudhu2004.png" alt="TryHackMe"></a>
 </div>
